@@ -1,0 +1,14 @@
+# Python version
+python==3.13.1
+
+# For data manipulation and analysis
+pandas==1.5.3
+
+# For text data processing
+nltk==3.9.1
+
+# For Web Application
+streamlit==1.41.1
+
+# For handling environment and dependencies
+pip==23.0.1
