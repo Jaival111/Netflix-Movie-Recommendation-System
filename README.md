@@ -19,7 +19,7 @@ Access the datasets used for this project through the following link:
 
 ## Deployed Application
 Try the live application here:  
-[Netflix Movie Recommendation System](#)
+[Netflix Movie Recommendation System](https://yournextcinema.streamlit.app/)
 
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request with detailed notes on your changes.
