@@ -1,6 +1,3 @@
-# Python version
-python
-
 # For data manipulation and analysis
 pandas
 
